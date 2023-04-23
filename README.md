@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/e2la__" target="blank"><img src="https://img.shields.io/twitter/follow/e2la__?logo=twitter&style=for-the-badge" alt="e2la__" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.sheddyport.com/](https://www.sheddyport.com/)
 
 - 📫 How to reach me **shedrackitulah@gmail.com**
 
