@@ -1,4 +1,3 @@
-[![MasterHead](https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966)](https://www.sheddyport.com/)
 <h1 align="center">Hi 👋, I'm Shadrack</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
@@ -6,6 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/e2la__" target="blank"><img src="https://img.shields.io/twitter/follow/e2la__?logo=twitter&style=for-the-badge" alt="e2la__" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://www.sheddyport.com/](https://www.sheddyport.com/)
 
 - 📫 How to reach me **shedrackitulah@gmail.com**
 
